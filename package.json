@@ -1,0 +1,34 @@
+{
+  "name": "officiadolorem",
+  "version": "1.0.0",
+  "description": "Strips out all JavaScript code from some HTML text",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OdaTorphy/officiadolorem.git"
+  },
+  "author": "IsacDicki",
+  "license": "MIT",
+  "homepage": "https://github.com/OdaTorphy/officiadolorem.git",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "sanitize-html": "^1.13.0"
+  },
+  "keywords": [
+    "html",
+    "necessitatibus",
+    "debitis",
+    "dolor",
+    "voluptatem",
+    "laborum",
+    "aspernatur",
+    "tempora",
+    "non"
+  ],
+  "devDependencies": {
+    "htmlclean": "^2.7.7"
+  }
+}
